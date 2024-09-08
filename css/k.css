@@ -1,0 +1,285 @@
+:root {
+    --main-color:#f0d838;
+    --main-color-alt:#4a4849;
+    --main-transition: 0.3s;
+    --main-padding-top:100px;
+    --main-padding-bottom:100px;
+    --section-background:#b799df;
+}
+*{
+    -webkit-box-sizing:border-box;
+    -moz-box-sizing:border-box;
+    box-sizing:border-box;
+   }
+html {
+    scroll-behavior: smooth;
+}
+body {
+    font-family:"Cairo", sans-serif;
+}
+a{
+    text-decoration: none;
+}
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+  
+      /*small*/
+      @media(min-width:768px){
+        .container{
+            width: 720px;
+        }
+    }
+         /*mediem*/
+    @media(min-width:992px){
+        .container{
+            width: 970px;
+        }
+    }
+         /*large*/
+    @media(min-width:1200px){
+        .container{
+            width: 1170px;
+        }
+    }
+    .program{
+   padding-top: 50px;
+   padding-bottom: 50px;
+        position: relative;
+        background-color: white;
+        flex-wrap: wrap;
+        }
+        .container {
+            padding-left: 15px;
+            padding-right: 15px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        .program .container{
+            display: grid;
+            grid-template-columns : repeat(auto-fill,minmax(300px,1fr));
+            gap:40px
+        }
+        .program .box-one{
+            width: 100%;
+  height: 100%;
+  margin-left: 35px;
+        }
+        .program .box-one img{
+            width: 66%;
+            height: 100%;
+         
+}
+        .program .box-two{
+            margin-top: 18px;
+            width: 115%;
+            height: 100%;
+        }
+        .program .box-two h2{
+font-size: 29px;
+font-weight: bold;
+color: var(--main-color);
+        }
+        .program .box-two p{
+      line-height: 1.8;
+  font-size: 16px;
+  margin-left: -60px;
+  flex-wrap: wrap;
+  font-weight: bold;
+        }
+        .program  .box-two b{
+            color: var(--main-color);
+            font-weight: bold;
+            font-size: 20px;
+        }
+        @media(max-width:767px){
+            .program .box-two p{
+                font-size: 15px;
+    margin-left: -5px;
+            }
+        }
+        @media(max-width:767px){
+            
+        }
+        @media(max-width:991px){
+            .program .box-two p{
+margin-right: 15px;
+        }
+    }
+
+
+
+
+        /*start cours*/
+        .course {
+            padding-bottom: var(--main-padding-bottom);
+            position: relative;
+            background-color:white; 
+        }
+        .course .title{
+            text-align: center;
+            padding-bottom: 18px;
+            font-weight: bold;
+            border-top: 10px solid var(--main-color);
+            border-width: 10px;
+            width: fit-content;
+            margin: auto;
+                text-shadow: 2px 1px 0px #ddd;
+    
+        }
+        .course .container{
+            gap: 40px;
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+        }
+        .course .box{
+            background-color: #4a4849;
+            text-align: center;
+            border: 1px solid rgba(75, 77, 77, 0.8);
+            height: 95%;
+            box-shadow: 1px 0px 6px 3px #4a4849;
+}
+
+        .course .min-box{
+            max-width: 100%;
+  margin-top: 46px;
+  margin-left: 1px;
+        }
+        .course .box .image{
+            max-width: 100%;
+  max-height: 62%;
+  margin-top: 10px;
+        }
+        .course .box h2{
+            color: white;
+            font-size: 25px;
+            margin-bottom: 10px;
+            font-weight: bold;
+        }
+        .course .box .label{
+            color: white;
+  font-size: 17px;
+  font-weight: bold;
+        }
+        .course .container .box .min-box .content .photo img{
+            max-width: 19%;
+            border-radius: 50%;
+            margin-right: 278px;
+            margin-bottom: -43px;
+            -webkit-border-radius: 50%;
+            -moz-border-radius: 50%;
+            -ms-border-radius: 50%;
+            -o-border-radius: 50%;
+            margin-left: 3px;
+}
+        .course .container .box .min-box .content {
+            background-color: white;
+            margin-bottom: 2px;
+            border-radius: 14%;
+            width: 341px;
+            height: 71px;
+            -webkit-border-radius: 14%;
+            -moz-border-radius: 14%;
+            -ms-border-radius: 14%;
+            -o-border-radius: 14%;
+}
+        
+        .course .container .box .min-box  p{
+            padding-bottom: 29px;
+            font-size: 20px;
+            font-weight: bold;
+            margin-left: 30px;
+            margin-bottom: -10px;
+        }
+        .course .container .box .min-box  p b{
+         color:var(--main-color);
+         font-weight: bold;
+        }
+        .course .end{
+       text-align: center;
+       background-color:#605e5f;
+       width: 245px;
+       margin: auto;
+       height: 50px;
+       border-radius: 19%;
+       margin-top: 11px;
+       padding: 7px;
+       color: white;
+       box-shadow: 0 6px 0 #ddd;
+       
+}
+@media(max-width:767px){
+    .course .container .box  {
+width: 101%;
+    }
+    .course .box .min-box{
+        margin-left: 0;
+    }
+}
+
+ @media(max-width:991px){
+  
+            .course .container .box .min-box  p{
+           margin-right: -10px;
+        }
+    }
+    @media(max-width:991px){
+        .course .container .box .min-box .content {
+       width: 100%;
+       margin-bottom: 15px;
+    }
+}
+
+
+       /*start require*/
+
+.require{
+    padding-bottom: var(--main-padding-bottom);
+    position: relative;
+    background-color: white
+}
+.require .title{
+    margin-bottom: 35px;
+    font-weight: bold;
+    border-bottom: 7px solid;
+    width: 270px;
+    border-color: var(--main-color);
+}
+.require .box{
+    border: 2px solid;
+    width: 80%;
+    padding-top: 10px;
+}
+.require .box p{
+    font-size: 22px;
+  font-weight: bold;
+}
+.require .box p:not(:last-child){
+    border-bottom: 1px solid;
+    padding: 12px 0;
+}
+.require .box i{
+    margin-right: 3px;
+    color: var(--main-color);
+    margin-left: 8px;
+}
+@media(max-width:767px){
+    .require .box {
+    width: 100%;
+    }
+    }
+    @media(max-width:767px){
+        .require .box p {
+            font-size: 11px;
+        }
+    }
+    @media(max-width:991px){
+ .require .box{
+width: 96%;
+ }
+ }
+ 
+
