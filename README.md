@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Omnia Abdelnasser</h1>
-<h3 align="center">Front-End Developer | Lifelong Learner</h3>
+<h3 align="center">Front-End Developer </h3>
 
 ---
 
