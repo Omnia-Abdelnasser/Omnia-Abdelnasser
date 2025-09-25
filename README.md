@@ -17,7 +17,7 @@
 </td>
 <td width="40%" align="center">
 
-<img src="https://github.com/<your-username>/<your-username>/blob/main/profile.png" alt="Omnia's Avatar" width="250"/>
+<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" alt="Omnia's Avatar" width="250"/>
 
 </td>
 </tr>
