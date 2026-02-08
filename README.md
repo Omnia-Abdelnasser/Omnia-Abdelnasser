@@ -58,7 +58,7 @@
 ### 📬 Contact Me  
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/<your-linkedin>" target="_blank">
+  <a href="https://www.linkedin.com/in/omniya-abdelnasser-214484355?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app>" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
  <a href="https://wa.me/+201552769471" target="_blank">
