@@ -46,11 +46,12 @@
 ---
 
 <!-- GitHub Stats -->
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Omnia-Abdelnasser&show_icons=true&theme=radical" alt="Omnia's GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omnia-Abdelnasser&layout=compact&theme=radical" height="165"/>
-</p>
+### 📊 GitHub Stats
+
+![Omnia GitHub stats](https://github-readme-stats.vercel.app/api?username=Omnia-Abdelnasser&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Omnia-Abdelnasser&layout=compact&theme=radical)
+
 
 ---
 
