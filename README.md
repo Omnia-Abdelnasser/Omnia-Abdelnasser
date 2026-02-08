@@ -43,15 +43,6 @@
 - **Version Control:** Git, GitHub  
 - **Other:** C++, VS Code, Figma  
 
----
-
-<!-- GitHub Stats -->
-### 📊 GitHub Stats
-
-![Omnia GitHub stats](https://github-readme-stats.vercel.app/api?username=Omnia-Abdelnasser&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Omnia-Abdelnasser&layout=compact&theme=radical)
-
 
 ---
 
