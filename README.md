@@ -1,6 +1,6 @@
 <!-- ========================= PROFILE HEADER ========================= -->
 
-<h1 align="center">Hi 👋, I'm Omnia Abdelnasser</h1>
+<h1 align="center">Hi , I'm Omnia Abdelnasser</h1>
 <h3 align="center">
 Full Stack Developer (React.js & Node.js) | Software Tester (Manual & Automation)
 </h3>
