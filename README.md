@@ -155,19 +155,7 @@ Passionate about building scalable web applications and ensuring software qualit
 
 </p>
 
----
 
-<div align="center">
-
-## 📊 GitHub Stats
-
-![Omnia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Omnia-Abdelnasser&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Omnia-Abdelnasser&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Omnia-Abdelnasser&theme=tokyonight)
-
-</div>
 
 ---
 
