@@ -1,64 +1,180 @@
-<!-- Profile Header -->
+<!-- ========================= PROFILE HEADER ========================= -->
+
 <h1 align="center">Hi 👋, I'm Omnia Abdelnasser</h1>
-<h3 align="center">Front-End Developer </h3>
+<h3 align="center">
+Full Stack Developer (React.js & Node.js) | Software Tester (Manual & Automation)
+</h3>
 
----
-
-<!-- About Section -->
-<table>
-<tr>
-<td width="60%" valign="top">
-
-### 👩‍💻 About Me  
-- 💡 Passionate about building **clean, efficient, and user-friendly web apps**.  
-- 🚀 Skilled in **JavaScript, React, Next.js, TypeScript, Tailwind, Zustand, TanStack Query**.  
-- 🎯 Strong focus on **collaborative teamwork** and delivering **quality products**.  
-
-</td>
-<td width="40%" align="center">
-
-<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" alt="Omnia's Avatar" width="250"/>
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- Skills Section -->
-### 🛠️ Skills  
-
-**Languages & Tools:**  
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,github,cpp,vscode" />
+<p align="center">
+Passionate about building scalable web applications and ensuring software quality through modern development and testing practices.
 </p>
 
 ---
 
-<!-- Tools & Technologies -->
-### 🧰 Tools & Technologies  
+## 👩‍💻 About Me
 
-- **Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS  
-- **State Management:** Zustand, TanStack Query  
-- **Version Control:** Git, GitHub  
-- **Other:** C++, VS Code, Figma  
+- 💻 Full Stack Developer specializing in **React.js** and **Node.js**.
+- ⚛️ Experienced in building modern, responsive, and user-friendly web applications.
+- 🚀 Skilled in developing secure REST APIs using **Express.js**, **Prisma ORM**, and **MySQL**.
+- 🧪 Software Tester with experience in **Manual Testing** and **Automation Testing** using **Java** and **Selenium WebDriver**.
+- 🤝 Strong believer in teamwork, clean code, and continuous learning.
+- 🌱 Always exploring new technologies and best practices in software development and testing.
+
+---
+
+# 🚀 Tech Stack
+
+## 🎨 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,vite" />
+</p>
+
+**Skills**
+
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- TypeScript
+- React.js
+- Next.js
+- Tailwind CSS
+- React Router
+- Zustand
+- TanStack Query
+- Responsive Design
+
+---
+
+## ⚙️ Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,mysql" />
+</p>
+
+**Skills**
+
+- Node.js
+- Express.js
+- REST APIs
+- Authentication (JWT)
+- Prisma ORM
+- MySQL
+- API Validation
+- MVC Architecture
+- Swagger Documentation
+
+---
+
+## 🗄️ Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+- MySQL
+- Database Design
+- SQL Queries
+- Indexing
+- Transactions
+- Stored Procedures
+- Functions
+- Views
+
+---
+
+# 🧪 Software Testing
+
+## Manual Testing
+
+
+- Test Cases
+- Bug Reporting
+- Regression Testing
+- API Testing
+- SDLC
+- STLC
+- Agile & Scrum
+- Postman
+
+---
+
+## Automation Testing
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,maven" />
+</p>
+
+**Skills**
+
+- Java
+- Selenium WebDriver
+- TestNG
+- Maven
+- Page Object Model (POM)
+- Data-Driven Testing
+- Explicit Wait
+- Implicit Wait
+- Assertions
+- Extent Reports
+- WebDriverManager
 
 
 ---
 
-<!-- Contact Section -->
-### 📬 Contact Me  
+# 🛠️ Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,npm" />
+</p>
+
+- Git
+- GitHub
+- Postman
+- VS Code
+- Figma
+- npm
+
+---
+
+# 📬 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/omniya-abdelnasser-214484355?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app>" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
- <a href="https://wa.me/+201552769471" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Omnia-Abdelnasser/Omnia-Abdelnasser" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+
+<a href="https://www.linkedin.com/in/omniya-abdelnasser-214484355" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://wa.me/201552769471" target="_blank">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Omnia-Abdelnasser" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
 
 ---
+
+<div align="center">
+
+## 📊 GitHub Stats
+
+![Omnia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Omnia-Abdelnasser&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Omnia-Abdelnasser&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Omnia-Abdelnasser&theme=tokyonight)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+**Full Stack Developer | React.js • Node.js • Software Tester**
+
+</div>
